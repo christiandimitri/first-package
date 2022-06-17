@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "NPM test package <christian.j.dimitrii@gmail.com> (https://chrisdimi.me)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiandimitri/first-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christiandimitri/first-package/issues"
+  },
+  "homepage": "https://github.com/christiandimitri/first-package#readme"
 }
